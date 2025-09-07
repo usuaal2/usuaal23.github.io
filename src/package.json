@@ -1,0 +1,15 @@
+{
+    "dependencies": {
+        "react": "^19.0.0",
+        "react-dom": "^19.0.0",
+        "react-scripts": "^5.0.0",
+        "framer-motion": "latest",
+        "lucide-react": "latest",
+        "jsbarcode": "^3.11.6",
+        "html2canvas": "latest",
+        "jspdf": "latest",
+        "xlsx": "latest"
+    },
+    "main": "/index.js",
+    "devDependencies": {}
+}
